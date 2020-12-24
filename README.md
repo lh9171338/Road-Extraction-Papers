@@ -36,7 +36,6 @@ A collection of road extraction papers.
 ## 1.3 Unsupervised
 | Name | Paper | Source | Code/Project |
 | --- | --- | --- | --- |
-
 | SIINet | [Road Extraction Using Road-Specific Contextual Information](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8900507) | ISPRS 2019 | [[Code](https://github.com/ErenTuring/SIINet)] |
 |  | [Image-Conditioned Graph Generation for Road Network Extraction](https://arxiv.org/pdf/1910.14388v1.pdf) | NIPS 2019 | [[Code](https://github.com/davide-belli/generative-graph-transformer)] |
 |  | [A novel dominant feature driven urban road extraction method](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8950028) | IGARSS 2019 | |
@@ -55,5 +54,5 @@ A collection of road extraction papers.
  # 2. Datasets
  
  - [TorontoCity dataset]()
- - [Massachusetts Roads Dataset]()
- - [DeepGlobe Road Extraction dataset]()
+ - [Massachusetts dataset]()
+ - [DeepGlobe dataset]()
