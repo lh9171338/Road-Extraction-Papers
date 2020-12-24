@@ -17,6 +17,7 @@ A collection of road extraction papers.
 | Name | Paper | Source | Code/Project |
 | --- | --- | --- | --- |
 | VecRoad | [VecRoad: Point-Based Iterative Graph Exploration for Road Graphs Extraction](https://ieeexplore.ieee.org/document/9157398) | CVPR 2020 | [[Project](https://mmcheng.net/vecroad/)] [[Code](https://github.com/tansor/VecRoad)] |
+| GGT | [Image-Conditioned Graph Generation for Road Network Extraction](https://arxiv.org/pdf/1910.14388v1.pdf) | NIPS 2019 | [[Code](https://github.com/davide-belli/generative-graph-transformer)] |
 |  | [Improved Road Connectivity by Joint Learning of Orientation and Segmentation](https://ieeexplore.ieee.org/document/8953380) | CVPR 2019 | [[Code](https://github.com/anilbatra2185/road_connectivity)] |
 | RoadTracer | [RoadTracer: Automatic Extraction of Road Networks from Aerial Images](https://ieeexplore.ieee.org/document/8578594) | CVPR 2018 | [[Project](https://roadmaps.csail.mit.edu/roadtracer/)] [[Code](https://github.com/mitroadmaps/roadtracer)] |
 |  | [Iterative Deep Learning for Road Topology Extraction](https://arxiv.org/pdf/1808.09814v1.pdf) | BMVC 2018 | [[Code](https://github.com/carlesventura/iterative-deep-learning)] |
@@ -37,7 +38,6 @@ A collection of road extraction papers.
 ## 1.3 Unsupervised
 | Name | Paper | Source | Code/Project |
 | --- | --- | --- | --- |
-|  | [Image-Conditioned Graph Generation for Road Network Extraction](https://arxiv.org/pdf/1910.14388v1.pdf) | NIPS 2019 | [[Code](https://github.com/davide-belli/generative-graph-transformer)] |
 |  | [A novel dominant feature driven urban road extraction method](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8950028) | IGARSS 2019 | |
 |  | [A Two-Step Deep Convolution Neural Network for Road Extraction from Aerial Images](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8711639) | SPIN 2019 | |
 |  | [An Optimized Residual Network with Block-soft Clustering for Road Extraction from Remote Sensing Imagery](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8997695) | IAEAC 2019 | |
@@ -56,3 +56,4 @@ A collection of road extraction papers.
  - [TorontoCity dataset]()
  - [Massachusetts dataset]()
  - [DeepGlobe dataset]()
+ - [Toulouse dataset]()
