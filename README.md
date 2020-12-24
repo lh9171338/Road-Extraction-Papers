@@ -34,7 +34,6 @@ A collection of road extraction papers.
 ## 1.3 Unsupervised
 | Name | Paper | Source | Code/Project |
 | --- | --- | --- | --- |
-
 |  | [A Method of Road Extraction from High Resolution Remote Image Based on Delaunay Algorithms](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8410249) | ICRIS 2018 | |
 |  | [Narrow Road Extraction from Remote Sensing Images Based on Super-Resolution Convolutional Neural Network](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8517851) | IGARSS 2018 | |
 |  | [Stacked U-Nets with Multi-output for Road Extraction](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8575491) | CVPR 2018 | |
