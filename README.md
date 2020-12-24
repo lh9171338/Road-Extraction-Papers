@@ -38,10 +38,6 @@ A collection of road extraction papers.
 ## 1.3 Unsupervised
 | Name | Paper | Source | Code/Project |
 | --- | --- | --- | --- |
-|  | [A novel dominant feature driven urban road extraction method](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8950028) | IGARSS 2019 | |
-|  | [A Two-Step Deep Convolution Neural Network for Road Extraction from Aerial Images](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8711639) | SPIN 2019 | |
-|  | [An Optimized Residual Network with Block-soft Clustering for Road Extraction from Remote Sensing Imagery](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8997695) | IAEAC 2019 | |
-|  | [Multi-Scale Enhanced Deep Network for Road Detection](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8899115) | IGARSS 2019 | |
 |  | [Real-Time Physics-Based Removal of Shadows and Shading From Road Surfaces](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9025374) | CVPR 2019 | |
 | ASPN | [Road Segmentation for Remote Sensing Images using Adversarial Spatial Pyramid Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9173823) | TGRS 2020 | [[Code](https://github.com/pshams55/ASPN)] |
 | DiResNet | [Direction-aware Residual Network for Road Extraction in VHR Remote Sensing Images](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9257405) | TGRS 2020 | [[Code](https://github.com/ggsDing/DiResNet)] |
