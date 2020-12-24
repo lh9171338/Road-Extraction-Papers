@@ -17,6 +17,7 @@ A collection of road extraction papers.
 | Name | Paper | Source | Code/Project |
 | --- | --- | --- | --- |
 | Sat2Graph | [Sat2Graph: Road Graph Extraction through Graph-Tensor Encoding](https://arxiv.org/pdf/2007.09547v1.pdf) | ECCV 2020 | [[Code](https://github.com/songtaohe/Sat2Graph)] |
+| RoadTagger | [RoadTagger: Robust Road Attribute Inference with Graph Neural Networks](https://arxiv.org/pdf/1912.12408v1.pdf) | AAAI 2020 | [[Code](https://github.com/mitroadmaps/roadtagger)] |
 | VecRoad | [VecRoad: Point-Based Iterative Graph Exploration for Road Graphs Extraction](https://ieeexplore.ieee.org/document/9157398) | CVPR 2020 | [[Project](https://mmcheng.net/vecroad/)] [[Code](https://github.com/tansor/VecRoad)] |
 | GGT | [Image-Conditioned Graph Generation for Road Network Extraction](https://arxiv.org/pdf/1910.14388v1.pdf) | NIPS 2019 | [[Code](https://github.com/davide-belli/generative-graph-transformer)] |
 |  | [Improved Road Connectivity by Joint Learning of Orientation and Segmentation](https://ieeexplore.ieee.org/document/8953380) | CVPR 2019 | [[Code](https://github.com/anilbatra2185/road_connectivity)] |
@@ -42,7 +43,7 @@ A collection of road extraction papers.
 |  | [Real-Time Physics-Based Removal of Shadows and Shading From Road Surfaces](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9025374) | CVPR 2019 | |
 | ASPN | [Road Segmentation for Remote Sensing Images using Adversarial Spatial Pyramid Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9173823) | TGRS 2020 | [[Code](https://github.com/pshams55/ASPN)] |
 | DiResNet | [Direction-aware Residual Network for Road Extraction in VHR Remote Sensing Images](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9257405) | TGRS 2020 | [[Code](https://github.com/ggsDing/DiResNet)] |
-| RoadTagger | [Robust Road Attribute Inference with Graph Neural Networks](https://arxiv.org/pdf/1912.12408v1.pdf) | AAAI 2020 | [[Code](https://github.com/mitroadmaps/roadtagger)] |
+
 
 
 ---
