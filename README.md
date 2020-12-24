@@ -3,12 +3,21 @@
 
 A collection of road extraction papers.
 
-# Outline
+# Outlineg
 
 - [Methods](#1-Methods)
+  - [Road graph extraction](#11-Road-graph-extraction)
+- [Datasets](#2-Datasets)
 
 # 1. Methods
 
+## 1.1 Road graph extraction
+
+| Name | Paper | Source | Code/Project |
+| --- | --- | --- | --- |
+| VecRoad | [VecRoad: Point-Based Iterative Graph Exploration for Road Graphs Extraction](https://ieeexplore.ieee.org/document/9157398) | CVPR 2020 | [[Code](https://github.com/tansor/VecRoad)] |
+
+## 1.2 Unsupervised
 | Name | Paper | Source | Code/Project |
 | --- | --- | --- | --- |
 | D-LinkNet | [Fully Convolutional Network for Automatic Road Extraction from Satellite Imagery](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8575493) | CVPR 2018 | [[Code](https://github.com/NekoApocalypse/road-extraction-d-linknet)] |
