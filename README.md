@@ -17,7 +17,7 @@ A collection of road extraction papers.
 | --- | --- | --- | --- |
 | VecRoad | [VecRoad: Point-Based Iterative Graph Exploration for Road Graphs Extraction](https://ieeexplore.ieee.org/document/9157398) | CVPR 2020 | [[Project](https://mmcheng.net/vecroad/)] [[Code](https://github.com/tansor/VecRoad)] |
 |  | [Improved Road Connectivity by Joint Learning of Orientation and Segmentation](https://ieeexplore.ieee.org/document/8953380) | CVPR 2019 | [[Code](https://github.com/anilbatra2185/road_connectivity)] |
-| RoadTracer | [Automatic Extraction of Road Networks from Aerial Images](https://ieeexplore.ieee.org/document/8578594) | CVPR 2018 | [[Project](https://cgv.cs.nthu.edu.tw/projects/dulanet)] [[Code](https://github.com/mitroadmaps/roadtracer)] |
+| RoadTracer | [RoadTracer: Automatic Extraction of Road Networks from Aerial Images](https://ieeexplore.ieee.org/document/8578594) | CVPR 2018 | [[Code](https://github.com/mitroadmaps/roadtracer)] |
 
 ## 1.2 Unsupervised
 | Name | Paper | Source | Code/Project |
