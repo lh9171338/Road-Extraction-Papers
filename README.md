@@ -31,11 +31,12 @@ A collection of road extraction papers.
 |  | [Fully Convolutional Network for Automatic Road Extraction from Satellite Imagery](https://ieeexplore.ieee.org/document/8575493) | CVPRW 2018 |  |
 | EOSResUNet | [Road detection with EOSResUNet and post vectorizing algorithm](https://ieeexplore.ieee.org/document/8575494) | CVPRW 2018 |  |
 |  | [Stacked U-Nets with Multi-output for Road Extraction](https://ieeexplore.ieee.org/document/8575491) | CVPRW 2018 |  |
+|  | [Roadmap Generation using a Multi-stage Ensemble of Deep Neural Networks with Smoothing-Based Optimization](https://ieeexplore.ieee.org/document/8575497) | CVPRW 2018 |  |
 
 ## 1.3 Unsupervised
 | Name | Paper | Source | Code/Project |
 | --- | --- | --- | --- |
-|  | [Roadmap Generation using a Multi-stage Ensemble of Deep Neural Networks with Smoothing-Based Optimization](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8575497) | CVPR 2018 | |
+
 | SIINet | [Road Extraction Using Road-Specific Contextual Information](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8900507) | ISPRS 2019 | [[Code](https://github.com/ErenTuring/SIINet)] |
 |  | [Image-Conditioned Graph Generation for Road Network Extraction](https://arxiv.org/pdf/1910.14388v1.pdf) | NIPS 2019 | [[Code](https://github.com/davide-belli/generative-graph-transformer)] |
 |  | [A novel dominant feature driven urban road extraction method](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8950028) | IGARSS 2019 | |
