@@ -11,9 +11,6 @@ A collection of road extraction papers.
 
 | Name | Paper | Source | Code/Project |
 | --- | --- | --- | --- |
-
-
-
 | D-LinkNet | [Fully Convolutional Network for Automatic Road Extraction from Satellite Imagery](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8575493) | CVPR 2018 | [[Code](https://github.com/NekoApocalypse/road-extraction-d-linknet)] |
 | EOSResUNet | [Road detection with EOSResUNet and post vectorizing algorithm](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8575494) | CVPR 2018 | |
 | RoadTracer | [Automatic Extraction of Road Networks from Aerial Images](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1627615) | CVPR 2018 | [[Project](https://cgv.cs.nthu.edu.tw/projects/dulanet)] [[Code](https://github.com/mitroadmaps/roadtracer)] |
