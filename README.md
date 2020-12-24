@@ -17,13 +17,13 @@ A collection of road extraction papers.
 | --- | --- | --- | --- |
 | VecRoad | [VecRoad: Point-Based Iterative Graph Exploration for Road Graphs Extraction](https://ieeexplore.ieee.org/document/9157398) | CVPR 2020 | [[Project](https://mmcheng.net/vecroad/)] [[Code](https://github.com/tansor/VecRoad)] |
 |  | [Improved Road Connectivity by Joint Learning of Orientation and Segmentation](https://ieeexplore.ieee.org/document/8953380) | CVPR 2019 | [[Code](https://github.com/anilbatra2185/road_connectivity)] |
+| RoadTracer | [Automatic Extraction of Road Networks from Aerial Images](https://ieeexplore.ieee.org/document/8578594) | CVPR 2018 | [[Project](https://cgv.cs.nthu.edu.tw/projects/dulanet)] [[Code](https://github.com/mitroadmaps/roadtracer)] |
 
 ## 1.2 Unsupervised
 | Name | Paper | Source | Code/Project |
 | --- | --- | --- | --- |
 | D-LinkNet | [Fully Convolutional Network for Automatic Road Extraction from Satellite Imagery](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8575493) | CVPR 2018 | [[Code](https://github.com/NekoApocalypse/road-extraction-d-linknet)] |
 | EOSResUNet | [Road detection with EOSResUNet and post vectorizing algorithm](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8575494) | CVPR 2018 | |
-| RoadTracer | [Automatic Extraction of Road Networks from Aerial Images](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1627615) | CVPR 2018 | [[Project](https://cgv.cs.nthu.edu.tw/projects/dulanet)] [[Code](https://github.com/mitroadmaps/roadtracer)] |
 |  | [Iterative Deep Learning for Road Topology Extraction](https://arxiv.org/pdf/1808.09814v1.pdf) | BMVC 2018 | [[Code](https://github.com/carlesventura/iterative-deep-learning)] |
 |  | [A Method of Road Extraction from High Resolution Remote Image Based on Delaunay Algorithms](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8410249) | ICRIS 2018 | |
 |  | [Narrow Road Extraction from Remote Sensing Images Based on Super-Resolution Convolutional Neural Network](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8517851) | IGARSS 2018 | |
