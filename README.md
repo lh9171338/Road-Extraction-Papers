@@ -7,6 +7,7 @@ A collection of road extraction papers.
 
 - [Methods](#1-Methods)
   - [Road Graph Extraction](#11-Road-Graph-Extraction)
+  - [Road Segmentation](#12-Road-Segmentation)  
 - [Datasets](#2-Datasets)
 
 # 1. Methods
@@ -20,7 +21,12 @@ A collection of road extraction papers.
 | RoadTracer | [RoadTracer: Automatic Extraction of Road Networks from Aerial Images](https://ieeexplore.ieee.org/document/8578594) | CVPR 2018 | [[Project](https://roadmaps.csail.mit.edu/roadtracer/)] [[Code](https://github.com/mitroadmaps/roadtracer)] |
 | DeepRoadMapper | [DeepRoadMapper: Extracting Road Topology from Aerial Images](https://ieeexplore.ieee.org/document/8237634) | ICCV 2017 |  |
 
-## 1.2 Unsupervised
+| Name | Paper | Source | Code/Project |
+| --- | --- | --- | --- |
+| D-LinkNet | [D-LinkNet: LinkNet with Pretrained Encoder and Dilated Convolution for High Resolution Satellite Imagery Road Extraction](https://ieeexplore.ieee.org/document/8575492) | CVPRW 2018 | [[Code](https://github.com/zlkanata/DeepGlobe-Road-Extraction-Challenge)] |
+|  | [Fully Convolutional Network for Automatic Road Extraction from Satellite Imagery](https://ieeexplore.ieee.org/document/8575493) | CVPRW 2018 |   |
+
+## 1.3 Unsupervised
 | Name | Paper | Source | Code/Project |
 | --- | --- | --- | --- |
 | D-LinkNet | [Fully Convolutional Network for Automatic Road Extraction from Satellite Imagery](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8575493) | CVPR 2018 | [[Code](https://github.com/NekoApocalypse/road-extraction-d-linknet)] |
@@ -50,4 +56,4 @@ A collection of road extraction papers.
  
  - [TorontoCity dataset]()
  - [Massachusetts dataset]()
- 
+ - [DeepGlobe Road Extraction dataset]()
