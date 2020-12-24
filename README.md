@@ -21,6 +21,9 @@ A collection of road extraction papers.
 | RoadTracer | [RoadTracer: Automatic Extraction of Road Networks from Aerial Images](https://ieeexplore.ieee.org/document/8578594) | CVPR 2018 | [[Project](https://roadmaps.csail.mit.edu/roadtracer/)] [[Code](https://github.com/mitroadmaps/roadtracer)] |
 | DeepRoadMapper | [DeepRoadMapper: Extracting Road Topology from Aerial Images](https://ieeexplore.ieee.org/document/8237634) | ICCV 2017 |  |
 
+
+## 1.2 Road Segmentation
+
 | Name | Paper | Source | Code/Project |
 | --- | --- | --- | --- |
 | D-LinkNet | [D-LinkNet: LinkNet with Pretrained Encoder and Dilated Convolution for High Resolution Satellite Imagery Road Extraction](https://ieeexplore.ieee.org/document/8575492) | CVPRW 2018 | [[Code](https://github.com/zlkanata/DeepGlobe-Road-Extraction-Challenge)] |
