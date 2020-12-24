@@ -30,20 +30,13 @@ A collection of road extraction papers.
 
 | Name | Paper | Source | Code/Project |
 | --- | --- | --- | --- |
+| DiResNet | [DiResNet: Direction-aware Residual Network for Road Extraction in VHR Remote Sensing Images](https://ieeexplore.ieee.org/document/9257405) | TGRS 2020 | [[Code](https://github.com/ggsDing/DiResNet)] |
 | SII-Net | [Spatial Information Inference Net: Road Extraction Using Road-Specific Contextual Information](https://ieeexplore.ieee.org/document/8900507) | ISPRS 2019 | [[Code](https://github.com/ErenTuring/SIINet)] |
 | D-LinkNet | [D-LinkNet: LinkNet with Pretrained Encoder and Dilated Convolution for High Resolution Satellite Imagery Road Extraction](https://ieeexplore.ieee.org/document/8575492) | CVPRW 2018 | [[Code](https://github.com/zlkanata/DeepGlobe-Road-Extraction-Challenge)] |
 |  | [Fully Convolutional Network for Automatic Road Extraction from Satellite Imagery](https://ieeexplore.ieee.org/document/8575493) | CVPRW 2018 |  |
 | EOSResUNet | [Road detection with EOSResUNet and post vectorizing algorithm](https://ieeexplore.ieee.org/document/8575494) | CVPRW 2018 |  |
 |  | [Stacked U-Nets with Multi-output for Road Extraction](https://ieeexplore.ieee.org/document/8575491) | CVPRW 2018 |  |
 |  | [Roadmap Generation using a Multi-stage Ensemble of Deep Neural Networks with Smoothing-Based Optimization](https://ieeexplore.ieee.org/document/8575497) | CVPRW 2018 |  |
-
-## 1.3 Unsupervised
-| Name | Paper | Source | Code/Project |
-| --- | --- | --- | --- |
-|  | [Real-Time Physics-Based Removal of Shadows and Shading From Road Surfaces](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9025374) | CVPR 2019 | |
-| ASPN | [Road Segmentation for Remote Sensing Images using Adversarial Spatial Pyramid Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9173823) | TGRS 2020 | [[Code](https://github.com/pshams55/ASPN)] |
-| DiResNet | [Direction-aware Residual Network for Road Extraction in VHR Remote Sensing Images](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9257405) | TGRS 2020 | [[Code](https://github.com/ggsDing/DiResNet)] |
-
 
 
 ---
