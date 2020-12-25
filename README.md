@@ -22,7 +22,7 @@ A collection of road extraction papers.
 | RoadTagger | [RoadTagger: Robust Road Attribute Inference with Graph Neural Networks](https://arxiv.org/pdf/1912.12408v1.pdf) | AAAI 2020 | [[Code](https://github.com/mitroadmaps/roadtagger)] |
 | VecRoad | [VecRoad: Point-Based Iterative Graph Exploration for Road Graphs Extraction](https://ieeexplore.ieee.org/document/9157398) | CVPR 2020 | [[Project](https://mmcheng.net/vecroad/)] [[Code](https://github.com/tansor/VecRoad)] |
 | PolyMapper | [Topological Map Extraction From Overhead Images](https://ieeexplore.ieee.org/document/9008272) | ICCV 2019 |  |
-| GGT | [Image-Conditioned Graph Generation for Road Network Extraction](https://arxiv.org/pdf/1910.14388v1.pdf) | NIPS 2019 | [[Code](https://github.com/davide-belli/generative-graph-transformer)] |
+| GGT | [Image-Conditioned Graph Generation for Road Network Extraction](https://arxiv.org/pdf/1910.14388v1.pdf) | NIPS 2019 | [[Project](https://davide-belli.github.io/generative-graph-transformer)] [[Code](https://github.com/davide-belli/generative-graph-transformer)] |
 |  | [Improved Road Connectivity by Joint Learning of Orientation and Segmentation](https://ieeexplore.ieee.org/document/8953380) | CVPR 2019 | [[Code](https://github.com/anilbatra2185/road_connectivity)] |
 | RoadTracer | [RoadTracer: Automatic Extraction of Road Networks from Aerial Images](https://ieeexplore.ieee.org/document/8578594) | CVPR 2018 | [[Project](https://roadmaps.csail.mit.edu/roadtracer/)] [[Code](https://github.com/mitroadmaps/roadtracer)] |
 |  | [Iterative Deep Learning for Road Topology Extraction](https://arxiv.org/pdf/1808.09814v1.pdf) | BMVC 2018 | [[Code](https://github.com/carlesventura/iterative-deep-learning)] |
@@ -59,7 +59,7 @@ A collection of road extraction papers.
  - [TorontoCity dataset]()
  - [Massachusetts dataset](https://www.cs.toronto.edu/~vmnih/data/)
  - [DeepGlobe dataset]()
- - [Toulouse dataset]()
+ - [Toulouse dataset](https://github.com/davide-belli/generative-graph-transformer)
  - [RoadNet dataset](https://github.com/yhlleo/RoadNet)
   
   # 3. SOTA
