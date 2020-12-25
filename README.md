@@ -49,6 +49,7 @@ A collection of road extraction papers.
 | --- | --- | --- | --- |
 | RoadNet | [RoadNet: Learning to Comprehensively Analyze Road Networks in Complex Urban Scenes From High-Resolution Remotely Sensed Images](https://ieeexplore.ieee.org/document/8506600) | TGRS 2019 | [[Code](https://github.com/yhlleo/RoadNet)] |
 | RCNN-UNet | [Road Detection and Centerline Extraction Via Deep Recurrent Convolutional Neural Network U-Net](https://ieeexplore.ieee.org/document/8714072) | TGRS 2019 |  |
+| MatAN | [Matching Adversarial Networks](https://ieeexplore.ieee.org/document/8578935) | CVPR 2018 |  |
 | CasNet | [Automatic Road Detection and Centerline Extraction via Cascaded End-to-End Convolutional Neural Network](https://ieeexplore.ieee.org/document/7873262) | TGRS 2017 |  |
 
 ---
