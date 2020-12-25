@@ -59,7 +59,7 @@ A collection of road extraction papers.
  - [SpaceNet Dataset](https://medium.com/the-downlinq/introducing-the-spacenet-road-detection-and-routing-challenge-and-dataset-7604de39b779)
  - [TorontoCity dataset]()
  - [Massachusetts dataset](https://www.cs.toronto.edu/~vmnih/data/)
- - [DeepGlobe dataset]()
+ - [DeepGlobe dataset](https://competitions.codalab.org/competitions/18467)
  - [Toulouse dataset](https://github.com/davide-belli/generative-graph-transformer)
  - [RoadNet dataset](https://github.com/yhlleo/RoadNet)
   
