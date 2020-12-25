@@ -10,6 +10,7 @@ A collection of road extraction papers.
   - [Road Segmentation](#12-Road-Segmentation)  
   - [Road Centerline Extraction](#13-Road-Centerline-Extraction)    
 - [Datasets](#2-Datasets)
+- [SOTA](#3-SOTA)
 
 # 1. Methods
 
@@ -52,9 +53,15 @@ A collection of road extraction papers.
  
  # 2. Datasets
  
+ - [City-Scale Dataset](https://mapster.csail.mit.edu/sat2graph/data.zip)
+ - [SpaceNet Dataset] ()
  - [TorontoCity dataset]()
  - [Massachusetts dataset]()
  - [DeepGlobe dataset]()
  - [Toulouse dataset]()
  - [RoadNet dataset](https://github.com/yhlleo/RoadNet)
   
+  # 3. SOTA
+- [paperswithcode](https://paperswithcode.com/task/monocular-depth-estimation)
+- [SpaceNet Road Detection](https://github.com/SpaceNetChallenge/RoadDetector)
+
