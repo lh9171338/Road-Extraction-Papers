@@ -66,6 +66,6 @@ A collection of road extraction papers.
  - [RoadNet Dataset](https://github.com/yhlleo/RoadNet)
   
   # 3. SOTA
-- [paperswithcode](https://paperswithcode.com/task/monocular-depth-estimation)
-- [SpaceNet Road Detection](https://github.com/SpaceNetChallenge/RoadDetector)
+- [DeepGlobe Road Extraction Challenge](https://competitions.codalab.org/competitions/18467)
+- [SpaceNet Road Detection and Routing Challenge](https://github.com/SpaceNetChallenge/RoadDetector)
 
