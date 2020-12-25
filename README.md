@@ -8,6 +8,7 @@ A collection of road extraction papers.
 - [Methods](#1-Methods)
   - [Road Graph Extraction](#11-Road-Graph-Extraction)
   - [Road Segmentation](#12-Road-Segmentation)  
+  - [Road Centerline Extraction](#13-Road-Centerline-Extraction)    
 - [Datasets](#2-Datasets)
 
 # 1. Methods
@@ -37,7 +38,14 @@ A collection of road extraction papers.
 | EOSResUNet | [Road detection with EOSResUNet and post vectorizing algorithm](https://ieeexplore.ieee.org/document/8575494) | CVPRW 2018 |  |
 |  | [Stacked U-Nets with Multi-output for Road Extraction](https://ieeexplore.ieee.org/document/8575491) | CVPRW 2018 |  |
 |  | [Roadmap Generation using a Multi-stage Ensemble of Deep Neural Networks with Smoothing-Based Optimization](https://ieeexplore.ieee.org/document/8575497) | CVPRW 2018 |  |
-| ResUnet | [Road Extraction by Deep Residual U-Net](https://ieeexplore.ieee.org/document/8309343) | TGRS 2018 | [[Code](https://github.com/DuFanXin/deep_residual_unet)] |
+| ResUNet | [Road Extraction by Deep Residual U-Net](https://ieeexplore.ieee.org/document/8309343) | TGRS 2018 | [[Code](https://github.com/DuFanXin/deep_residual_unet)] |
+
+## 1.3 Road Centerline Extraction
+
+| Name | Paper | Source | Code/Project |
+| --- | --- | --- | --- |
+| RoadNet | [RoadNet: Learning to Comprehensively Analyze Road Networks in Complex Urban Scenes From High-Resolution Remotely Sensed Images](https://ieeexplore.ieee.org/document/8506600) | TGRS 2019 | [[Code](https://github.com/yhlleo/RoadNet)] |
+| RCNN-UNet | [Road Detection and Centerline Extraction Via Deep Recurrent Convolutional Neural Network U-Net](https://ieeexplore.ieee.org/document/8714072) | TGRS 2019 |  |
 | CasNet | [Automatic Road Detection and Centerline Extraction via Cascaded End-to-End Convolutional Neural Network](https://ieeexplore.ieee.org/document/7873262) | TGRS 2017 |  |
 
 ---
@@ -48,3 +56,5 @@ A collection of road extraction papers.
  - [Massachusetts dataset]()
  - [DeepGlobe dataset]()
  - [Toulouse dataset]()
+ - [RoadNet dataset](https://github.com/yhlleo/RoadNet)
+  
