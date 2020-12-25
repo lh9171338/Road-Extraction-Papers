@@ -38,6 +38,7 @@ A collection of road extraction papers.
 |  | [Stacked U-Nets with Multi-output for Road Extraction](https://ieeexplore.ieee.org/document/8575491) | CVPRW 2018 |  |
 |  | [Roadmap Generation using a Multi-stage Ensemble of Deep Neural Networks with Smoothing-Based Optimization](https://ieeexplore.ieee.org/document/8575497) | CVPRW 2018 |  |
 | ResUnet | [Road Extraction by Deep Residual U-Net](https://ieeexplore.ieee.org/document/8309343) | TGRS 2018 | [[Code](https://github.com/DuFanXin/deep_residual_unet)] |
+| CasNet | [Automatic Road Detection and Centerline Extraction via Cascaded End-to-End Convolutional Neural Network](https://ieeexplore.ieee.org/document/7873262) | TGRS 2017 |  |
 
 ---
  
