@@ -21,6 +21,7 @@ A collection of road extraction papers.
 | Sat2Graph | [Sat2Graph: Road Graph Extraction through Graph-Tensor Encoding](https://arxiv.org/pdf/2007.09547v1.pdf) | ECCV 2020 | [[Code](https://github.com/songtaohe/Sat2Graph)] |
 | RoadTagger | [RoadTagger: Robust Road Attribute Inference with Graph Neural Networks](https://arxiv.org/pdf/1912.12408v1.pdf) | AAAI 2020 | [[Code](https://github.com/mitroadmaps/roadtagger)] |
 | VecRoad | [VecRoad: Point-Based Iterative Graph Exploration for Road Graphs Extraction](https://ieeexplore.ieee.org/document/9157398) | CVPR 2020 | [[Project](https://mmcheng.net/vecroad/)] [[Code](https://github.com/tansor/VecRoad)] |
+| PolyMapper | [Topological Map Extraction From Overhead Images](https://ieeexplore.ieee.org/document/9008272) | ICCV 2019 |  |
 | GGT | [Image-Conditioned Graph Generation for Road Network Extraction](https://arxiv.org/pdf/1910.14388v1.pdf) | NIPS 2019 | [[Code](https://github.com/davide-belli/generative-graph-transformer)] |
 |  | [Improved Road Connectivity by Joint Learning of Orientation and Segmentation](https://ieeexplore.ieee.org/document/8953380) | CVPR 2019 | [[Code](https://github.com/anilbatra2185/road_connectivity)] |
 | RoadTracer | [RoadTracer: Automatic Extraction of Road Networks from Aerial Images](https://ieeexplore.ieee.org/document/8578594) | CVPR 2018 | [[Project](https://roadmaps.csail.mit.edu/roadtracer/)] [[Code](https://github.com/mitroadmaps/roadtracer)] |
