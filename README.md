@@ -54,7 +54,7 @@ A collection of road extraction papers.
  # 2. Datasets
  
  - [City-Scale Dataset](https://mapster.csail.mit.edu/sat2graph/data.zip)
- - [SpaceNet Dataset] (https://medium.com/the-downlinq/introducing-the-spacenet-road-detection-and-routing-challenge-and-dataset-7604de39b779)
+ - [SpaceNet Dataset](https://medium.com/the-downlinq/introducing-the-spacenet-road-detection-and-routing-challenge-and-dataset-7604de39b779)
  - [TorontoCity dataset]()
  - [Massachusetts dataset](https://www.cs.toronto.edu/~vmnih/data/)
  - [DeepGlobe dataset]()
